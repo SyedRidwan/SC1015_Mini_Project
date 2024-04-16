@@ -6,12 +6,11 @@ Mini project for SC1015, focusing on the impact of the government on Human Freed
 This project analyzes the impact of governance, economic policies, and legal frameworks on human freedom across different countries. By forecasting human freedom index (HFI) using the top 5 most significant variables, the project highlights the critical role these factors play in shaping HFI over the years.
 
 ## Problem definition:
-How might the effectiveness of a government impact future levels of human freedom
-
-What can be done to improve future levels of human freedom?
+For our project, we want to forecasting the impact of the government on Freedom. Hence, we have arrived at the following problem statement:
+How might the effectiveness of a government impact future levels of human freedom and what can be done to improve future levels of human freedom?
 
 ## Model used:
-Linear regression
+Linear Regression
 
 ## Key Findings
 Top Countries: High human freedom scores are associated with policies prioritizing economic freedom, regulatory efficiency, and civil liberties, leading to robust socio-economic outcomes.
