@@ -14,6 +14,7 @@ Linear Regression
 
 ## Key Findings
 Top Countries: High human freedom scores are associated with policies prioritizing economic freedom, regulatory efficiency, and civil liberties, leading to robust socio-economic outcomes.
+
 Bottom Countries: Lower human freedom scores are often linked to challenges in governance effectiveness, regulatory burdens, and political rights, which hinder progress.
 
 ## Recommendations for Improvement
