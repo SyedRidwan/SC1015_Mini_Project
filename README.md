@@ -7,7 +7,7 @@ This project analyzes the impact of governance, economic policies, and legal fra
 
 ## Problem definition:
 How might the effectiveness of a government impact future levels of human freedom
-What can be done to improve future levels of human freedom?
+\n What can be done to improve future levels of human freedom?
 
 ## Model used:
 Linear regression
