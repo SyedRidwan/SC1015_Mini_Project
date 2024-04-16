@@ -22,3 +22,6 @@ Promote Economic Freedom: Reduce regulatory barriers and safeguard property righ
 Strengthen Democratic Institutions: Invest in transparent governance, electoral processes, and rule of law to bolster political freedoms.
 Advance Social Justice: Implement equitable policies addressing poverty, inequality, and social exclusion to promote a more inclusive society.
 Protect Civil Liberties: Safeguard rights such as freedom of expression, assembly, and association to nurture democratic culture and pluralism.
+
+Reference:
+https://www.kaggle.com/datasets/gsutters/the-human-freedom-index?resource=download
