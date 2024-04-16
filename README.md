@@ -19,8 +19,11 @@ Bottom Countries: Lower human freedom scores are often linked to challenges in g
 
 ## Recommendations for Improvement
 Promote Economic Freedom: Reduce regulatory barriers and safeguard property rights to foster innovation and entrepreneurship.
+
 Strengthen Democratic Institutions: Invest in transparent governance, electoral processes, and rule of law to bolster political freedoms.
+
 Advance Social Justice: Implement equitable policies addressing poverty, inequality, and social exclusion to promote a more inclusive society.
+
 Protect Civil Liberties: Safeguard rights such as freedom of expression, assembly, and association to nurture democratic culture and pluralism.
 
 ## References
