@@ -22,9 +22,13 @@ Strengthen Democratic Institutions: Invest in transparent governance, electoral 
 Advance Social Justice: Implement equitable policies addressing poverty, inequality, and social exclusion to promote a more inclusive society.
 Protect Civil Liberties: Safeguard rights such as freedom of expression, assembly, and association to nurture democratic culture and pluralism.
 
-Reference:
+## Reference:
 https://www.kaggle.com/datasets/gsutters/the-human-freedom-index?resource=download
+
 https://www.cato.org/sites/cato.org/files/2023-01/human-freedom-index-2022.pdf
+
 https://www.idea.int/
+
 https://hdr.undp.org/content/human-development-report-2023-24
+
 https://cato.org/economic-freedom-world/2022)
