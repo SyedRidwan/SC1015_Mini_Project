@@ -1,6 +1,6 @@
 # SC1015_Mini_Project
 Mini project for SC1015, focusing on the impact of the government on Human Freedom Index
-## Contributor:
+## Contributors:
 - @EvelynTheresia123: Sample Collection, Data Preparation, Problem Formulation, Exploratory Analysis
   
 - @SyedRidwan: Statistical Description, Analytic Visualisation, Pattern Recognition, Algorithm Optimization
