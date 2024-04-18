@@ -39,3 +39,5 @@ https://www.idea.int/
 https://hdr.undp.org/content/human-development-report-2023-24
 
 https://cato.org/economic-freedom-world/2022)
+
+https://www.geeksforgeeks.org/ml-gradient-boosting/
